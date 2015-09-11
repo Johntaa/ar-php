@@ -1,0 +1,27 @@
+{
+    "name": "johntaa/arabic",
+    "description": "contribution to Ar-PHP Library, namespace-psr4 added",
+     
+    "homepage": "https://github.com/johntaa/arabic",
+    "license": "LGPL",
+    "authors": [
+		{
+			"email":"khaled@ar-php.org",
+			"name":"Khaled Al-Sham'aa",
+			"homepage":"http://www.ar-php.org/"
+		},
+        {
+            "name": ":johntaa",
+            "email": "fccffccffccf@yahoo.com" 
+        }
+    ],
+    "require": { 
+        "php" : ">=5.4.0"
+    }, 
+    "autoload": {
+        "psr-4": {
+            "Johntaa\\Arabic\\": "src/Arabic"
+        }
+    },
+  
+}
