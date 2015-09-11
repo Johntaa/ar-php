@@ -1,7 +1,7 @@
 # Contribution to Ar-PHP Library, namespace-psr4 added
 
 ## Install
-Add the "johntaa/arabic": "dev-master" into the require section of your composer.json.
+Add the "johntaa/ar-php": "dev-master" into the require section of your composer.json.
 Run composer install.
 
 
