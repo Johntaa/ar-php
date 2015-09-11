@@ -1,8 +1,8 @@
 {
-    "name": "johntaa/ArPHP",
+    "name": "johntaa/ar-php",
     "description": "contribution to Ar-PHP Library, namespace-psr4 added",
      
-    "homepage": "https://github.com/Johntaa/arPHP",
+    "homepage": "https://github.com/Johntaa/ar-php",
     "license": "LGPL",
     "authors": [
 		{
