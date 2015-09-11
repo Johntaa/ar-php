@@ -1,8 +1,8 @@
 {
-    "name": "johntaa/arabic",
+    "name": "johntaa/ArPHP",
     "description": "contribution to Ar-PHP Library, namespace-psr4 added",
      
-    "homepage": "https://github.com/johntaa/arabic",
+    "homepage": "https://github.com/Johntaa/ArPHP",
     "license": "LGPL",
     "authors": [
 		{
@@ -22,6 +22,6 @@
         "psr-4": {
             "Johntaa\\Arabic\\": "src/Arabic"
         }
-    },
+    } 
   
 }
