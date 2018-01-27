@@ -3,7 +3,7 @@
     "description": "contribution to Ar-PHP Library, namespace-psr4 added",
      
     "homepage": "https://github.com/Johntaa/ar-php",
-    "license": "LGPL",
+    "license": "LGPL-3.0",
     "authors": [
 		{
 			"email":"khaled@ar-php.org",
