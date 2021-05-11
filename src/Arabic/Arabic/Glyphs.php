@@ -278,9 +278,11 @@ class I18N_Arabic_Glyphs
                 || $prevChar == 'لإ' || $prevChar == 'ل') 
                 && (mb_strpos('آأإا', $crntChar) !== false)
             ) {
-                if (mb_strpos($this->_prevLink, $chars[$i - 2]) !== false) {
-                    $form++;
-                }
+                if (isset($chars[$i - 2])) {
+		            if (mb_strpos($this->_prevLink, $chars[$i - 2]) !== false) {
+			            $form++;
+		            }
+	            }
                 
                 if (mb_strpos($this->_vowel, $chars[$i - 1])) {
                     $output .= '&#x';
